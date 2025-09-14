@@ -1,0 +1,4 @@
+name: ZoneFall
+version: '1.0-SNAPSHOT'
+main: dev.recro.zoneFall.ZoneFall
+api-version: '1.21'
