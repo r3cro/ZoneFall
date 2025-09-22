@@ -3,8 +3,6 @@ package dev.recro.zoneFall.data;
 import dev.recro.zoneFall.ZoneFall;
 import lombok.Getter;
 import lombok.Setter;
-import org.bukkit.ChatColor;
-import org.bukkit.entity.Player;
 
 import java.util.UUID;
 

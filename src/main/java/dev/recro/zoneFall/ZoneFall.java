@@ -1,10 +1,7 @@
 package dev.recro.zoneFall;
 
 import dev.recro.zoneFall.commands.*;
-import dev.recro.zoneFall.commands.economy.BalanceCommand;
-import dev.recro.zoneFall.commands.economy.PayCommand;
-import dev.recro.zoneFall.commands.economy.SellCommand;
-import dev.recro.zoneFall.commands.economy.WorthCommand;
+import dev.recro.zoneFall.commands.economy.*;
 import dev.recro.zoneFall.data.DatabaseManager;
 import dev.recro.zoneFall.data.PlayerDataManager;
 import dev.recro.zoneFall.listeners.LoadZonePlayer;
