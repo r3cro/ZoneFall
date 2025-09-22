@@ -1,14 +1,11 @@
 package dev.recro.zoneFall.commands;
 
 import dev.recro.zoneFall.ZoneFall;
-import dev.recro.zoneFall.data.PlayerData;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import java.util.Map;
-import java.util.UUID;
 
 public class DebugCommand implements CommandExecutor {
 
@@ -22,10 +19,10 @@ public class DebugCommand implements CommandExecutor {
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         Player player = (Player) sender;
 
+        if(!player.isOp()) return true;
+
         if(args.length == 0) {
-           for (Map.Entry<UUID, PlayerData> entry : plugin.getPlayerDataManager().getAllData().entrySet()) {
-               player.sendMessage("" + entry);
-           }
+            plugin.getPlayerDataManager().getPlayerData(player).setSellMultiplier(1);
         }
 
         return true;

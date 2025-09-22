@@ -27,16 +27,18 @@ public class DatabaseManager {
     public PlayerData loadPlayerData(UUID uuid) {
         try (Connection conn = getConnection()) {
             PreparedStatement ps = conn.prepareStatement(
-                    "SELECT kills, deaths, balance, firstjoin, lastjoin FROM player_stats WHERE uuid = ?"
+                    "SELECT sellmultiplier, kills, mobkills, deaths, balance, firstjoin, lastjoin FROM player_stats WHERE uuid = ?"
             );
             ps.setString(1, uuid.toString());
             ResultSet rs = ps.executeQuery();
             if (rs.next()) {
                 PlayerData data = new PlayerData(uuid);
                 data.setBalance(rs.getDouble("balance"));
+                data.setSellMultiplier(rs.getDouble("sellmultiplier"));
                 data.setFirstJoin(rs.getLong("firstjoin"));
                 data.setLastJoin(System.currentTimeMillis());
                 for (int i = 0; i < rs.getInt("kills"); i++) data.addKill();
+                for (int i = 0; i < rs.getInt("mobkills"); i++) data.addMobKill();
                 for (int i = 0; i < rs.getInt("deaths"); i++) data.addDeath();
                 return data;
             } else {
@@ -56,14 +58,16 @@ public class DatabaseManager {
     public void savePlayerData(PlayerData data) {
         try (Connection conn = getConnection()) {
             PreparedStatement ps = conn.prepareStatement(
-                    "REPLACE INTO player_stats (uuid, kills, deaths, balance, lastjoin, firstjoin) VALUES (?, ?, ?, ?, ?, ?)"
+                    "REPLACE INTO player_stats (uuid, sellmultiplier, kills, mobkills, deaths, balance, lastjoin, firstjoin) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
             );
             ps.setString(1, data.getUuid().toString());
-            ps.setInt(2, data.getKills());
-            ps.setInt(3, data.getDeaths());
-            ps.setDouble(4, data.getBalance());
-            ps.setLong(5, data.getLastJoin());
-            ps.setLong(6, data.getFirstJoin());
+            ps.setDouble(2, data.getSellMultiplier());
+            ps.setInt(3, data.getKills());
+            ps.setInt(4, data.getMobKills());
+            ps.setInt(5, data.getDeaths());
+            ps.setDouble(6, data.getBalance());
+            ps.setLong(7, data.getLastJoin());
+            ps.setLong(8, data.getFirstJoin());
             ps.executeUpdate();
         } catch (SQLException e) {
             e.printStackTrace();
@@ -77,12 +81,15 @@ public class DatabaseManager {
             statement.executeUpdate("CREATE TABLE IF NOT EXISTS player_stats (" +
                     "uuid CHAR(36) PRIMARY KEY," +
                     "kills INT NOT NULL DEFAULT 0," +
+                    "mob_kills INT NOT NULL DEFAULT 0," +
                     "deaths INT NOT NULL DEFAULT 0," +
                     "balance DOUBLE NOT NULL DEFAULT 0" +
                     ")");
 
             ensureColumnExists(connection, "player_stats", "lastjoin", "LONG NOT NULL DEFAULT 0.0");
             ensureColumnExists(connection, "player_stats", "firstjoin", "LONG NOT NULL DEFAULT 0.0");
+            ensureColumnExists(connection, "player_stats", "mobkills", "INT NOT NULL DEFAULT 0");
+            ensureColumnExists(connection, "player_stats", "sellmultiplier", "DOUBLE NOT NULL DEFAULT 1");
 
         } catch (SQLException e) {
             e.printStackTrace();
@@ -100,6 +107,4 @@ public class DatabaseManager {
             }
         }
     }
-
-
 }

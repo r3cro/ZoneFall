@@ -1,0 +1,2651 @@
+worth: #https://gist.githubusercontent.com/queengooborg/92d08120f0d6d25175f6c7a30e3ccac7/raw/13a65560a17982d76b45395a226ff82a1e295f32/essentials-worth.yml
+  ACACIA_BOAT:
+    value: 10.9
+  ACACIA_BUTTON:
+    value: 2.27
+  ACACIA_CHEST_BOAT:
+    value: 27.51
+  ACACIA_DOOR:
+    value: 4.31
+  ACACIA_FENCE:
+    value: 10.75
+  ACACIA_FENCE_GATE:
+    value: 8.57
+  ACACIA_HANGING_SIGN:
+    value: 16.49
+  ACACIA_LEAVES:
+    value: 2.2
+  ACACIA_LOG:
+    value: 9.06
+  ACACIA_PLANKS:
+    value: 2.27
+  ACACIA_PRESSURE_PLATE:
+    value: 4.49
+  ACACIA_SAPLING:
+    value: 1.8
+  ACACIA_SIGN:
+    value: 4.62
+  ACACIA_SLAB:
+    value: 1.11
+  ACACIA_STAIRS:
+    value: 3.23
+  ACACIA_TRAPDOOR:
+    value: 6.47
+  ACACIA_WOOD:
+    value: 11.72
+  ACTIVATOR_RAIL:
+    value: 18.02
+  ALLIUM:
+    value: 5.5
+  AMETHYST_BLOCK:
+    value: 34.92
+  AMETHYST_CLUSTER:
+    value: 8.58
+  AMETHYST_SHARD:
+    value: 9.0
+  ANCIENT_DEBRIS:
+    value: 968.0
+  ANDESITE:
+    value: 1.7
+  ANDESITE_SLAB:
+    value: 0.83
+  ANDESITE_STAIRS:
+    value: 2.42
+  ANDESITE_WALL:
+    value: 1.61
+  ANGLER_POTTERY_SHERD:
+    value: 497.87
+  ANVIL:
+    value: 500.97
+  APPLE:
+    value: 3.3
+  ARCHER_POTTERY_SHERD:
+    value: 497.87
+  ARMADILLO_SCUTE:
+    value: 2.56
+  ARMOR_STAND:
+    value: 7.11
+  ARMS_UP_POTTERY_SHERD:
+    value: 497.87
+  ARROW:
+    value: 0.54
+  AXOLOTL_BUCKET:
+    value: 67.31
+  AZALEA:
+    value: 1.8
+  AZALEA_LEAVES:
+    value: 2.2
+  AZURE_BLUET:
+    value: 1.93
+  BAKED_POTATO:
+    value: 0.69
+  BAMBOO:
+    value: 0.81
+  BAMBOO_BLOCK:
+    value: 6.71
+  BAMBOO_BUTTON:
+    value: 3.35
+  BAMBOO_CHEST_RAFT:
+    value: 32.64
+  BAMBOO_DOOR:
+    value: 6.36
+  BAMBOO_FENCE:
+    value: 14.86
+  BAMBOO_FENCE_GATE:
+    value: 10.62
+  BAMBOO_HANGING_SIGN:
+    value: 12.48
+  BAMBOO_MOSAIC:
+    value: 3.25
+  BAMBOO_MOSAIC_SLAB:
+    value: 1.59
+  BAMBOO_MOSAIC_STAIRS:
+    value: 4.63
+  BAMBOO_PLANKS:
+    value: 3.35
+  BAMBOO_PRESSURE_PLATE:
+    value: 6.63
+  BAMBOO_RAFT:
+    value: 16.08
+  BAMBOO_SIGN:
+    value: 6.65
+  BAMBOO_SLAB:
+    value: 1.64
+  BAMBOO_STAIRS:
+    value: 4.77
+  BAMBOO_TRAPDOOR:
+    value: 9.55
+  BARREL:
+    value: 14.73
+  BASALT:
+    value: 0.26
+  BEACON:
+    value: 27964.18
+  BEEF:
+    value: 5.5
+  BEEHIVE:
+    value: 39.87
+  BEENEST:
+    value: 39.87
+  BEETROOT:
+    value: 0.66
+  BEETROOT_SEEDS:
+    value: 0.22
+  BEETROOT_SOUP:
+    value: 5.29
+  BELL:
+    value: 147.23
+  BIG_DRIPLEAF:
+    value: 3.5
+  BIRCH_BOAT:
+    value: 10.9
+  BIRCH_BUTTON:
+    value: 2.27
+  BIRCH_CHEST_BOAT:
+    value: 27.51
+  BIRCH_DOOR:
+    value: 4.31
+  BIRCH_FENCE:
+    value: 10.75
+  BIRCH_FENCE_GATE:
+    value: 8.57
+  BIRCH_HANGING_SIGN:
+    value: 16.49
+  BIRCH_LEAVES:
+    value: 2.2
+  BIRCH_LOG:
+    value: 9.06
+  BIRCH_PLANKS:
+    value: 2.27
+  BIRCH_PRESSURE_PLATE:
+    value: 4.49
+  BIRCH_SAPLING:
+    value: 1.8
+  BIRCH_SIGN:
+    value: 4.62
+  BIRCH_SLAB:
+    value: 1.11
+  BIRCH_STAIRS:
+    value: 3.23
+  BIRCH_TRAPDOOR:
+    value: 6.47
+  BIRCH_WOOD:
+    value: 11.72
+  BLACK_BANNER:
+    value: 55.2
+  BLACK_BED:
+    value: 33.83
+  BLACK_BUNDLE:
+    value: 13.21
+  BLACK_CANDLE:
+    value: 13.7
+  BLACK_CARPET:
+    value: 6.34
+  BLACK_CONCRETE:
+    value: 0.89
+  BLACK_CONCRETE_POWDER:
+    value: 0.89
+  BLACK_DYE:
+    value: 3.3
+  BLACK_GLAZED_TERRACOTTA:
+    value: 18.88
+  BLACK_HARNESS:
+    value: 1196.51
+  BLACK_SHULKER_BOX:
+    value: 86.01
+  BLACK_STAINED_GLASS:
+    value: 1.01
+  BLACK_STAINED_GLASS_PANE:
+    value: 0.36
+  BLACK_TERRACOTTA:
+    value: 15.1
+  BLACK_WOOL:
+    value: 9.6
+  BLACKSTONE:
+    value: 1.54
+  BLACKSTONE_SLAB:
+    value: 0.75
+  BLACKSTONE_STAIRS:
+    value: 2.19
+  BLACKSTONE_WALL:
+    value: 1.46
+  BLADE_POTTERY_SHERD:
+    value: 497.87
+  BLAST_FURNACE:
+    value: 97.28
+  BLAZE_POWDER:
+    value: 7.0
+  BLAZE_ROD:
+    value: 14.0
+  BLUE_BANNER:
+    value: 110.75
+  BLUE_BED:
+    value: 61.9
+  BLUE_BUNDLE:
+    value: 23.06
+  BLUE_CANDLE:
+    value: 23.55
+  BLUE_CARPET:
+    value: 12.84
+  BLUE_CONCRETE:
+    value: 2.03
+  BLUE_CONCRETE_POWDER:
+    value: 2.03
+  BLUE_DYE:
+    value: 13.25
+  BLUE_EGG:
+    value: 0.76
+  BLUE_GLAZED_TERRACOTTA:
+    value: 20.3
+  BLUE_HARNESS:
+    value: 1205.86
+  BLUE_ICE:
+    value: 116.58
+  BLUE_ORCHID:
+    value: 1.1
+  BLUE_SHULKER_BOX:
+    value: 95.86
+  BLUE_STAINED_GLASS:
+    value: 2.16
+  BLUE_STAINED_GLASS_PANE:
+    value: 0.77
+  BLUE_TERRACOTTA:
+    value: 16.24
+  BLUE_WOOL:
+    value: 19.45
+  BOLT_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 8850.7
+  BONE:
+    value: 1.75
+  BONE_BLOCK:
+    value: 4.8
+  BONE_MEAL:
+    value: 0.58
+  BOOK:
+    value: 6.5
+  BOOKSHELF:
+    value: 30.47
+  BORDURE_INDENTED_BANNER_PATTERN:
+    value: 5.98
+  BOW:
+    value: 7.89
+  BOWL:
+    value: 1.67
+  BRAIN_CORAL:
+    value: 2.87
+  BRAIN_CORAL_BLOCK:
+    value: 3.43
+  BRAIN_CORAL_FAN:
+    value: 3.17
+  BREAD:
+    value: 9.7
+  BREEZE_ROD:
+    value: 28.0
+  BREWER_POTTERY_SHERD:
+    value: 497.87
+  BREWING_STAND:
+    value: 16.78
+  BRICK:
+    value: 4.12
+  BRICK_SLAB:
+    value: 7.84
+  BRICK_STAIRS:
+    value: 22.79
+  BRICK_WALL:
+    value: 15.19
+  BRICKS:
+    value: 15.99
+  BROWN_BANNER:
+    value: 62.25
+  BROWN_BED:
+    value: 37.39
+  BROWN_BUNDLE:
+    value: 14.45
+  BROWN_CANDLE:
+    value: 14.95
+  BROWN_CARPET:
+    value: 7.16
+  BROWN_CONCRETE:
+    value: 1.03
+  BROWN_CONCRETE_POWDER:
+    value: 1.03
+  BROWN_DYE:
+    value: 4.56
+  BROWN_EGG:
+    value: 0.76
+  BROWN_GLAZED_TERRACOTTA:
+    value: 19.05
+  BROWN_HARNESS:
+    value: 1197.69
+  BROWN_MUSHROOM:
+    value: 1.1
+  BROWN_MUSHROOM_BLOCK:
+    value: 2.2
+  BROWN_SHULKER_BOX:
+    value: 87.26
+  BROWN_STAINED_GLASS:
+    value: 1.16
+  BROWN_STAINED_GLASS_PANE:
+    value: 0.41
+  BROWN_TERRACOTTA:
+    value: 15.24
+  BROWN_WOOL:
+    value: 10.85
+  BRUSH:
+    value: 14.21
+  BUBBLE_CORAL:
+    value: 2.87
+  BUBBLE_CORAL_BLOCK:
+    value: 3.43
+  BUBBLE_CORAL_FAN:
+    value: 3.17
+  BUCKET:
+    value: 54.33
+  BUNDLE:
+    value: 10.04
+  BURN_POTTERY_SHERD:
+    value: 497.87
+  BUSH:
+    value: 0.02
+  CACTUS:
+    value: 5.5
+  CACTUS_FLOWER:
+    value: 2.14
+  CAKE:
+    value: 189.2
+  CALCITE:
+    value: 1.1
+  CALIBRATED_SCULK_SENSOR:
+    value: 111.74
+  CAMPFIRE:
+    value: 36.98
+  CANDLE:
+    value: 10.54
+  CARROT:
+    value: 0.83
+  CARROT_ON_A_STICK:
+    value: 7.15
+  CARTOGRAPHY_TABLE:
+    value: 9.65
+  CARVED_PUMPKIN:
+    value: 12.69
+  CAULDRON:
+    value: 121.6
+  CHAIN:
+    value: 22.13
+  CHAINMAIL_BOOTS:
+    value: 150.0
+  CHAINMAIL_CHESTPLATE:
+    value: 325.0
+  CHAINMAIL_HELMET:
+    value: 150.0
+  CHAINMAIL_LEGGINGS:
+    value: 250.0
+  CHARCOAL:
+    value: 11.33
+  CHERRY_BOAT:
+    value: 12.48
+  CHERRY_BUTTON:
+    value: 2.6
+  CHERRY_CHEST_BOAT:
+    value: 29.08
+  CHERRY_DOOR:
+    value: 4.94
+  CHERRY_FENCE:
+    value: 12.01
+  CHERRY_FENCE_GATE:
+    value: 9.2
+  CHERRY_HANGING_SIGN:
+    value: 16.49
+  CHERRY_LEAVES:
+    value: 2.2
+  CHERRY_LOG:
+    value: 10.42
+  CHERRY_PLANKS:
+    value: 2.6
+  CHERRY_PRESSURE_PLATE:
+    value: 5.15
+  CHERRY_SAPLING:
+    value: 1.8
+  CHERRY_SIGN:
+    value: 5.24
+  CHERRY_SLAB:
+    value: 1.27
+  CHERRY_STAIRS:
+    value: 3.71
+  CHERRY_TRAPDOOR:
+    value: 7.41
+  CHERRY_WOOD:
+    value: 13.48
+  CHEST:
+    value: 16.89
+  CHEST_MINECART:
+    value: 104.53
+  CHICKEN:
+    value: 2.75
+  CHIPPED_ANVIL:
+    value: 250.49
+  CHISELED_BOOKSHELF:
+    value: 15.59
+  CHISELED_COPPER:
+    value: 204.02
+  CHISELED_DEEPSLATE:
+    value: 2.61
+  CHISELED_NETHER_BRICKS:
+    value: 16.83
+  CHISELED_POLISHED_BLACKSTONE:
+    value: 2.95
+  CHISELED_QUARTZ_BLOCK:
+    value: 147.89
+  CHISELED_RED_SANDSTONE:
+    value: 12.51
+  CHISELED_RESIN_BRICKS:
+    value: 18.75
+  CHISELED_SANDSTONE:
+    value: 4.22
+  CHISELED_STONE_BRICKS:
+    value: 2.65
+  CHISELED_TUFF:
+    value: 0.51
+  CHISELED_TUFF_BRICKS:
+    value: 0.48
+  CHORUS_FLOWER:
+    value: 27.5
+  CHORUS_FRUIT:
+    value: 5.5
+  CLAY:
+    value: 12.8
+  CLAY_BALL:
+    value: 3.3
+  CLOCK:
+    value: 229.38
+  CLOSED_EYEBLOSSOM:
+    value: 3.5
+  COAL:
+    value: 8.8
+  COAL_BLOCK:
+    value: 72.86
+  COAL_ORE:
+    value: 6.6
+  COARSE_DIRT:
+    value: 0.58
+  COAST_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 8850.7
+  COBBLED_DEEPSLATE:
+    value: 1.32
+  COBBLED_DEEPSLATE_SLAB:
+    value: 0.65
+  COBBLED_DEEPSLATE_STAIRS:
+    value: 1.88
+  COBBLED_DEEPSLATE_WALL:
+    value: 1.25
+  COBBLESTONE:
+    value: 1.1
+  COBBLESTONE_SLAB:
+    value: 0.54
+  COBBLESTONE_STAIRS:
+    value: 1.57
+  COBBLESTONE_WALL:
+    value: 1.05
+  COBWEB:
+    value: 0.01
+  COCOA_BEANS:
+    value: 4.56
+  COD:
+    value: 3.3
+  COD_BUCKET:
+    value: 67.31
+  COMPARATOR:
+    value: 34.34
+  COMPASS:
+    value: 74.13
+  COMPOSTER:
+    value: 7.3
+  CONDUIT:
+    value: 89.27
+  COOKED_BEEF:
+    value: 6.88
+  COOKED_CHICKEN:
+    value: 3.44
+  COOKED_COD:
+    value: 4.12
+  COOKED_MUTTON:
+    value: 1.38
+  COOKED_PORKCHOP:
+    value: 5.5
+  COOKED_RABBIT:
+    value: 2.06
+  COOKED_SALMON:
+    value: 4.47
+  COOKIE:
+    value: 1.37
+  COPPER_BLOCK:
+    value: 106.23
+  COPPER_BULB:
+    value: 80.64
+  COPPER_DOOR:
+    value: 24.38
+  COPPER_GRATE:
+    value: 103.04
+  COPPER_INGOT:
+    value: 12.83
+  COPPER_ORE:
+    value: 7.7
+  COPPER_TRAPDOOR:
+    value: 36.57
+  CORNFLOWER:
+    value: 2.75
+  CRACKED_DEEPSLATE_BRICKS:
+    value: 1.55
+  CRACKED_DEEPSLATE_TILES:
+    value: 1.5
+  CRACKED_NETHER_BRICKS:
+    value: 10.62
+  CRACKED_POLISHED_BLACKSTONE_BRICKS:
+    value: 1.81
+  CRACKED_STONE_BRICKS:
+    value: 1.68
+  CRAFTER:
+    value: 108.6
+  CRAFTING_TABLE:
+    value: 8.81
+  CREAKING_HEART:
+    value: 36.25
+  CREEPER_BANNER_PATTERN:
+    value: 4950.53
+  CREEPER_HEAD:
+    value: 5000.0
+  CRIMSON_BUTTON:
+    value: 2.96
+  CRIMSON_DOOR:
+    value: 5.62
+  CRIMSON_FENCE:
+    value: 13.38
+  CRIMSON_FENCE_GATE:
+    value: 9.88
+  CRIMSON_FUNGUS:
+    value: 1.32
+  CRIMSON_HANGING_SIGN:
+    value: 18.41
+  CRIMSON_HYPHAE:
+    value: 15.3
+  CRIMSON_NYLIUM:
+    value: 2.25
+  CRIMSON_PLANKS:
+    value: 2.96
+  CRIMSON_PRESSURE_PLATE:
+    value: 5.86
+  CRIMSON_ROOTS:
+    value: 0.03
+  CRIMSON_SIGN:
+    value: 5.92
+  CRIMSON_SLAB:
+    value: 1.45
+  CRIMSON_STAIRS:
+    value: 4.22
+  CRIMSON_STEM:
+    value: 11.83
+  CRIMSON_TRAPDOOR:
+    value: 8.44
+  CROSSBOW:
+    value: 33.71
+  CRYING_OBSIDIAN:
+    value: 392.4
+  CUT_COPPER:
+    value: 103.04
+  CUT_COPPER_SLAB:
+    value: 50.49
+  CUT_COPPER_STAIRS:
+    value: 146.83
+  CUT_RED_SANDSTONE:
+    value: 6.13
+  CUT_RED_SANDSTONE_SLAB:
+    value: 3.0
+  CUT_SANDSTONE:
+    value: 2.07
+  CUT_SANDSTONE_SLAB:
+    value: 1.01
+  CYAN_BANNER:
+    value: 92.42
+  CYAN_BED:
+    value: 52.64
+  CYAN_BUNDLE:
+    value: 19.8
+  CYAN_CANDLE:
+    value: 20.29
+  CYAN_CARPET:
+    value: 10.69
+  CYAN_CONCRETE:
+    value: 1.65
+  CYAN_CONCRETE_POWDER:
+    value: 1.65
+  CYAN_DYE:
+    value: 9.96
+  CYAN_GLAZED_TERRACOTTA:
+    value: 19.84
+  CYAN_HARNESS:
+    value: 1202.78
+  CYAN_SHULKER_BOX:
+    value: 92.6
+  CYAN_STAINED_GLASS:
+    value: 1.78
+  CYAN_STAINED_GLASS_PANE:
+    value: 0.63
+  CYAN_TERRACOTTA:
+    value: 15.87
+  CYAN_WOOL:
+    value: 16.2
+  DAMAGED_ANVIL:
+    value: 125.24
+  DANDELION:
+    value: 1.32
+  DANGER_POTTERY_SHERD:
+    value: 497.87
+  DARK_OAK_BOAT:
+    value: 10.9
+  DARK_OAK_BUTTON:
+    value: 2.27
+  DARK_OAK_CHEST_BOAT:
+    value: 27.51
+  DARK_OAK_DOOR:
+    value: 4.31
+  DARK_OAK_FENCE:
+    value: 10.75
+  DARK_OAK_FENCE_GATE:
+    value: 8.57
+  DARK_OAK_HANGING_SIGN:
+    value: 16.49
+  DARK_OAK_LEAVES:
+    value: 2.2
+  DARK_OAK_LOG:
+    value: 9.06
+  DARK_OAK_PLANKS:
+    value: 2.27
+  DARK_OAK_PRESSURE_PLATE:
+    value: 4.49
+  DARK_OAK_SAPLING:
+    value: 1.8
+  DARK_OAK_SIGN:
+    value: 4.62
+  DARK_OAK_SLAB:
+    value: 1.11
+  DARK_OAK_STAIRS:
+    value: 3.23
+  DARK_OAK_TRAPDOOR:
+    value: 6.47
+  DARK_OAK_WOOD:
+    value: 11.72
+  DARK_PRISMARINE:
+    value: 43.52
+  DARK_PRISMARINE_SLAB:
+    value: 21.32
+  DARK_PRISMARINE_STAIRS:
+    value: 62.02
+  DAYLIGHT_DETECTOR:
+    value: 58.1
+  DEAD_BRAIN_CORAL:
+    value: 0.01
+  DEAD_BRAIN_CORAL_BLOCK:
+    value: 0.03
+  DEAD_BRAIN_CORAL_FAN:
+    value: 0.03
+  DEAD_BUBBLE_CORAL:
+    value: 0.01
+  DEAD_BUBBLE_CORAL_BLOCK:
+    value: 0.03
+  DEAD_BUBBLE_CORAL_FAN:
+    value: 0.03
+  DEAD_BUSH:
+    value: 0.01
+  DEAD_FIRE_CORAL:
+    value: 0.01
+  DEAD_FIRE_CORAL_BLOCK:
+    value: 0.03
+  DEAD_FIRE_CORAL_FAN:
+    value: 0.03
+  DEAD_HORN_CORAL:
+    value: 0.01
+  DEAD_HORN_CORAL_BLOCK:
+    value: 0.03
+  DEAD_HORN_CORAL_FAN:
+    value: 0.03
+  DEAD_TUBE_CORAL:
+    value: 0.01
+  DEAD_TUBE_CORAL_BLOCK:
+    value: 0.03
+  DEAD_TUBE_CORAL_FAN:
+    value: 0.03
+  DECORATED_POT:
+    value: 15.99
+  DEEPSLATE:
+    value: 2.77
+  DEEPSLATE_BRICK_SLAB:
+    value: 0.61
+  DEEPSLATE_BRICK_STAIRS:
+    value: 1.77
+  DEEPSLATE_BRICK_WALL:
+    value: 1.18
+  DEEPSLATE_BRICKS:
+    value: 1.24
+  DEEPSLATE_COAL_ORE:
+    value: 6.6
+  DEEPSLATE_COPPER_ORE:
+    value: 7.7
+  DEEPSLATE_DIAMOND_ORE:
+    value: 412.5
+  DEEPSLATE_EMERALD_ORE:
+    value: 41.25
+  DEEPSLATE_GOLD_ORE:
+    value: 33.0
+  DEEPSLATE_IRON_ORE:
+    value: 9.9
+  DEEPSLATE_LAPIS_ORE:
+    value: 9.94
+  DEEPSLATE_REDSTONE_ORE:
+    value: 2.47
+  DEEPSLATE_TILE_SLAB:
+    value: 0.59
+  DEEPSLATE_TILE_STAIRS:
+    value: 1.71
+  DEEPSLATE_TILE_WALL:
+    value: 1.14
+  DEEPSLATE_TILES:
+    value: 1.2
+  DETECTOR_RAIL:
+    value: 18.12
+  DIAMOND:
+    value: 550.0
+  DIAMOND_AXE:
+    value: 1586.15
+  DIAMOND_BLOCK:
+    value: 4554.0
+  DIAMOND_BOOTS:
+    value: 2134.0
+  DIAMOND_CHESTPLATE:
+    value: 4092.0
+  DIAMOND_HELMET:
+    value: 2640.0
+  DIAMOND_HOE:
+    value: 1069.17
+  DIAMOND_HORSE_ARMOR:
+    value: 3300.0
+  DIAMOND_LEGGINGS:
+    value: 3619.0
+  DIAMOND_ORE:
+    value: 412.5
+  DIAMOND_PICKAXE:
+    value: 1586.15
+  DIAMOND_SHOVEL:
+    value: 541.2
+  DIAMOND_SWORD:
+    value: 1079.1
+  DIORITE:
+    value: 1.5
+  DIORITE_SLAB:
+    value: 0.73
+  DIORITE_STAIRS:
+    value: 2.14
+  DIORITE_WALL:
+    value: 1.42
+  DIRT:
+    value: 0.53
+  DIRT_PATH:
+    value: 0.48
+  DISC_FRAGMENT_5:
+    value: 14.0
+  DISPENSER:
+    value: 17.38
+  DRAGON_BREATH:
+    value: 180.0
+  DRAGON_EGG:
+    value: 1100.0
+  DRAGON_HEAD:
+    value: 25000.0
+  DRIED_GHAST:
+    value: 617.32
+  DRIED_KELP:
+    value: 3.91
+  DRIED_KELP_BLOCK:
+    value: 32.37
+  DRIPSTONE_BLOCK:
+    value: 3.92
+  DROPPER:
+    value: 10.23
+  DUNE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 8850.7
+  ECHO_SHARD:
+    value: 92.3
+  EGG:
+    value: 0
+  ELYTRA:
+    value: 0
+  EMERALD:
+    value: 0
+  EMERALD_BLOCK:
+    value: 0
+  EMERALD_ORE:
+    value: 0
+  ENCHANTED_BOOK:
+    value: 0
+  ENCHANTED_GOLDEN_APPLE:
+    value: 0
+  ENCHANTING_TABLE:
+    value: 0
+  END_CRYSTAL:
+    value: 0
+  END_PORTAL_FRAME:
+    value: 0
+  END_ROD:
+    value: 0
+  END_STONE:
+    value: 0
+  END_STONE_BRICK_SLAB:
+    value: 0
+  END_STONE_BRICK_STAIRS:
+    value: 0
+  END_STONE_BRICK_WALL:
+    value: 0
+  END_STONE_BRICKS:
+    value: 0
+  ENDER_CHEST:
+    value: 0
+  ENDER_EYE:
+    value: 0
+  ENDER_PEARL:
+    value: 0
+  EXPERIENCE_BOTTLE:
+    value: 0
+  EXPLORER_POTTERY_SHERD:
+    value: 0
+  EXPOSED_CHISELED_COPPER:
+    value: 0
+  EXPOSED_COPPER:
+    value: 0
+  EXPOSED_COPPER_BULB:
+    value: 0
+  EXPOSED_COPPER_DOOR:
+    value: 0
+  EXPOSED_COPPER_GRATE:
+    value: 0
+  EXPOSED_COPPER_TRAPDOOR:
+    value: 0
+  EXPOSED_CUT_COPPER:
+    value: 0
+  EXPOSED_CUT_COPPER_SLAB:
+    value: 0
+  EXPOSED_CUT_COPPER_STAIRS:
+    value: 0
+  EYE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  FARMLAND:
+    value: 0
+  FEATHER:
+    value: 0
+  FERMENTED_SPIDER_EYE:
+    value: 0
+  FERN:
+    value: 0
+  FIELD_MASONED_BANNER_PATTERN:
+    value: 0
+  FILLED_MAP:
+    value: 0
+  FIRE_CHARGE:
+    value: 0
+  FIRE_CORAL:
+    value: 0
+  FIRE_CORAL_BLOCK:
+    value: 0
+  FIRE_CORAL_FAN:
+    value: 0
+  FIREFLY_BUSH:
+    value: 0
+  FIREWORK_ROCKET:
+    value: 0
+  FIREWORK_STAR:
+    value: 0
+  FISHING_ROD:
+    value: 0
+  FLETCHING_TABLE:
+    value: 0
+  FLINT:
+    value: 0
+  FLINT_AND_STEEL:
+    value: 0
+  FLOW_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  FLOW_BANNER_PATTERN:
+    value: 0
+  FLOW_POTTERY_SHERD:
+    value: 0
+  FLOWER_BANNER_PATTERN:
+    value: 0
+  FLOWER_POT:
+    value: 0
+  FLOWERING_AZALEA:
+    value: 0
+  FLOWERING_AZALEA_LEAVES:
+    value: 0
+  FRIEND_POTTERY_SHERD:
+    value: 0
+  FROGSPAWN:
+    value: 0
+  FURNACE:
+    value: 0
+  FURNACE_MINECART:
+    value: 0
+  GHAST_TEAR:
+    value: 0
+  GILDED_BLACKSTONE:
+    value: 0
+  GLASS:
+    value: 0
+  GLASS_BOTTLE:
+    value: 0
+  GLASS_PANE:
+    value: 0
+  GLISTERING_MELON_SLICE:
+    value: 0
+  GLOBE_BANNER_PATTERN:
+    value: 0
+  GLOW_BERRIES:
+    value: 0
+  GLOW_INK_SAC:
+    value: 0
+  GLOW_ITEM_FRAME:
+    value: 0
+  GLOW_LICHEN:
+    value: 0
+  GLOWSTONE:
+    value: 0
+  GLOWSTONE_DUST:
+    value: 0
+  GOAT_HORN:
+    value: 0
+  GOLD_BLOCK:
+    value: 0
+  GOLD_INGOT:
+    value: 0
+  GOLD_NUGGET:
+    value: 0
+  GOLD_ORE:
+    value: 0
+  GOLDEN_APPLE:
+    value: 0
+  GOLDEN_AXE:
+    value: 0
+  GOLDEN_BOOTS:
+    value: 0
+  GOLDEN_CARROT:
+    value: 0
+  GOLDEN_CHESTPLATE:
+    value: 0
+  GOLDEN_HELMET:
+    value: 0
+  GOLDEN_HOE:
+    value: 0
+  GOLDEN_HORSE_ARMOR:
+    value: 0
+  GOLDEN_LEGGINGS:
+    value: 0
+  GOLDEN_PICKAXE:
+    value: 0
+  GOLDEN_SHOVEL:
+    value: 0
+  GOLDEN_SWORD:
+    value: 0
+  GRANITE:
+    value: 0
+  GRANITE_SLAB:
+    value: 0
+  GRANITE_STAIRS:
+    value: 0
+  GRANITE_WALL:
+    value: 0
+  GRASS_BLOCK:
+    value: 0
+  GRAVEL:
+    value: 0
+  GRAY_BANNER:
+    value: 0
+  GRAY_BED:
+    value: 0
+  GRAY_BUNDLE:
+    value: 0
+  GRAY_CANDLE:
+    value: 0
+  GRAY_CARPET:
+    value: 0
+  GRAY_CONCRETE:
+    value: 0
+  GRAY_CONCRETE_POWDER:
+    value: 0
+  GRAY_DYE:
+    value: 0
+  GRAY_GLAZED_TERRACOTTA:
+    value: 0
+  GRAY_HARNESS:
+    value: 0
+  GRAY_SHULKER_BOX:
+    value: 0
+  GRAY_STAINED_GLASS:
+    value: 0
+  GRAY_STAINED_GLASS_PANE:
+    value: 0
+  GRAY_TERRACOTTA:
+    value: 0
+  GRAY_WOOL:
+    value: 0
+  GREEN_BANNER:
+    value: 0
+  GREEN_BED:
+    value: 0
+  GREEN_BUNDLE:
+    value: 0
+  GREEN_CANDLE:
+    value: 0
+  GREEN_CARPET:
+    value: 0
+  GREEN_CONCRETE:
+    value: 0
+  GREEN_CONCRETE_POWDER:
+    value: 0
+  GREEN_DYE:
+    value: 0
+  GREEN_GLAZED_TERRACOTTA:
+    value: 0
+  GREEN_HARNESS:
+    value: 0
+  GREEN_SHULKER_BOX:
+    value: 0
+  GREEN_STAINED_GLASS:
+    value: 0
+  GREEN_STAINED_GLASS_PANE:
+    value: 0
+  GREEN_TERRACOTTA:
+    value: 0
+  GREEN_WOOL:
+    value: 0
+  GRINDSTONE:
+    value: 0
+  GUNPOWDER:
+    value: 0
+  GUSTER_BANNER_PATTERN:
+    value: 0
+  GUSTER_POTTERY_SHERD:
+    value: 0
+  HANGING_ROOTS:
+    value: 0
+  HAY_BLOCK:
+    value: 0
+  HEART_OF_THE_SEA:
+    value: 0
+  HEART_POTTERY_SHERD:
+    value: 0
+  HEARTBREAK_POTTERY_SHERD:
+    value: 0
+  HEAVY_CORE:
+    value: 0
+  HEAVY_WEIGHTED_PRESSURE_PLATE:
+    value: 0
+  HONEY_BLOCK:
+    value: 0
+  HONEY_BOTTLE:
+    value: 0
+  HONEYCOMB:
+    value: 0
+  HONEYCOMB_BLOCK:
+    value: 0
+  HOPPER:
+    value: 0
+  HOPPER_MINECART:
+    value: 0
+  HORN_CORAL:
+    value: 0
+  HORN_CORAL_BLOCK:
+    value: 0
+  HORN_CORAL_FAN:
+    value: 0
+  HOST_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  HOWL_POTTERY_SHERD:
+    value: 0
+  ICE:
+    value: 0
+  INFESTED_CHISELED_STONE_BRICKS:
+    value: 0
+  INFESTED_COBBLESTONE:
+    value: 0
+  INFESTED_CRACKED_STONE_BRICKS:
+    value: 0
+  INFESTED_DEEPSLATE:
+    value: 0
+  INFESTED_MOSSY_STONE_BRICKS:
+    value: 0
+  INFESTED_STONE:
+    value: 0
+  INFESTED_STONE_BRICKS:
+    value: 0
+  INK_SAC:
+    value: 0
+  IRON_AXE:
+    value: 0
+  IRON_BARS:
+    value: 0
+  IRON_BLOCK:
+    value: 0
+  IRON_BOOTS:
+    value: 0
+  IRON_CHESTPLATE:
+    value: 0
+  IRON_DOOR:
+    value: 0
+  IRON_HELMET:
+    value: 0
+  IRON_HOE:
+    value: 0
+  IRON_HORSE_ARMOR:
+    value: 0
+  IRON_INGOT:
+    value: 0
+  IRON_LEGGINGS:
+    value: 0
+  IRON_NUGGET:
+    value: 0
+  IRON_ORE:
+    value: 0
+  IRON_PICKAXE:
+    value: 0
+  IRON_SHOVEL:
+    value: 0
+  IRON_SWORD:
+    value: 0
+  IRON_TRAPDOOR:
+    value: 0
+  ITEM_FRAME:
+    value: 0
+  JACK_O_LANTERN:
+    value: 0
+  JIGSAW:
+    value: 0
+  JUKEBOX:
+    value: 0
+  JUNGLE_BOAT:
+    value: 0
+  JUNGLE_BUTTON:
+    value: 0
+  JUNGLE_CHEST_BOAT:
+    value: 0
+  JUNGLE_DOOR:
+    value: 0
+  JUNGLE_FENCE:
+    value: 0
+  JUNGLE_FENCE_GATE:
+    value: 0
+  JUNGLE_HANGING_SIGN:
+    value: 0
+  JUNGLE_LEAVES:
+    value: 0
+  JUNGLE_LOG:
+    value: 0
+  JUNGLE_PLANKS:
+    value: 0
+  JUNGLE_PRESSURE_PLATE:
+    value: 0
+  JUNGLE_SAPLING:
+    value: 0
+  JUNGLE_SIGN:
+    value: 0
+  JUNGLE_SLAB:
+    value: 0
+  JUNGLE_STAIRS:
+    value: 0
+  JUNGLE_TRAPDOOR:
+    value: 0
+  JUNGLE_WOOD:
+    value: 0
+  KELP:
+    value: 0
+  KNOWLEDGE_BOOK:
+    value: 0
+  LADDER:
+    value: 0
+  LANTERN:
+    value: 0
+  LAPIS_BLOCK:
+    value: 0
+  LAPIS_LAZULI:
+    value: 0
+  LAPIS_ORE:
+    value: 0
+  LARGE_AMETHYST_BUD:
+    value: 0
+  LARGE_FERN:
+    value: 0
+  LAVA_BUCKET:
+    value: 0
+  LEAD:
+    value: 0
+  LEAF_LITTER:
+    value: 0
+  LEATHER:
+    value: 0
+  LEATHER_BOOTS:
+    value: 0
+  LEATHER_CHESTPLATE:
+    value: 0
+  LEATHER_HELMET:
+    value: 0
+  LEATHER_HORSE_ARMOR:
+    value: 0
+  LEATHER_LEGGINGS:
+    value: 0
+  LECTERN:
+    value: 0
+  LEVER:
+    value: 0
+  LIGHT:
+    value: 0
+  LIGHT_BLUE_BANNER:
+    value: 0
+  LIGHT_BLUE_BED:
+    value: 0
+  LIGHT_BLUE_BUNDLE:
+    value: 0
+  LIGHT_BLUE_CANDLE:
+    value: 0
+  LIGHT_BLUE_CARPET:
+    value: 0
+  LIGHT_BLUE_CONCRETE:
+    value: 0
+  LIGHT_BLUE_CONCRETE_POWDER:
+    value: 0
+  LIGHT_BLUE_DYE:
+    value: 0
+  LIGHT_BLUE_GLAZED_TERRACOTTA:
+    value: 0
+  LIGHT_BLUE_HARNESS:
+    value: 0
+  LIGHT_BLUE_SHULKER_BOX:
+    value: 0
+  LIGHT_BLUE_STAINED_GLASS:
+    value: 0
+  LIGHT_BLUE_STAINED_GLASS_PANE:
+    value: 0
+  LIGHT_BLUE_TERRACOTTA:
+    value: 0
+  LIGHT_BLUE_WOOL:
+    value: 0
+  LIGHT_GRAY_BANNER:
+    value: 0
+  LIGHT_GRAY_BED:
+    value: 0
+  LIGHT_GRAY_BUNDLE:
+    value: 0
+  LIGHT_GRAY_CANDLE:
+    value: 0
+  LIGHT_GRAY_CARPET:
+    value: 0
+  LIGHT_GRAY_CONCRETE:
+    value: 0
+  LIGHT_GRAY_CONCRETE_POWDER:
+    value: 0
+  LIGHT_GRAY_DYE:
+    value: 0
+  LIGHT_GRAY_GLAZED_TERRACOTTA:
+    value: 0
+  LIGHT_GRAY_HARNESS:
+    value: 0
+  LIGHT_GRAY_SHULKER_BOX:
+    value: 0
+  LIGHT_GRAY_STAINED_GLASS:
+    value: 0
+  LIGHT_GRAY_STAINED_GLASS_PANE:
+    value: 0
+  LIGHT_GRAY_TERRACOTTA:
+    value: 0
+  LIGHT_GRAY_WOOL:
+    value: 0
+  LIGHT_WEIGHTED_PRESSURE_PLATE:
+    value: 0
+  LIGHTNING_ROD:
+    value: 0
+  LILAC:
+    value: 0
+  LILY_OF_THE_VALLEY:
+    value: 0
+  LILY_PAD:
+    value: 0
+  LIME_BANNER:
+    value: 0
+  LIME_BED:
+    value: 0
+  LIME_BUNDLE:
+    value: 0
+  LIME_CANDLE:
+    value: 0
+  LIME_CARPET:
+    value: 0
+  LIME_CONCRETE:
+    value: 0
+  LIME_CONCRETE_POWDER:
+    value: 0
+  LIME_DYE:
+    value: 0
+  LIME_GLAZED_TERRACOTTA:
+    value: 0
+  LIME_HARNESS:
+    value: 0
+  LIME_SHULKER_BOX:
+    value: 0
+  LIME_STAINED_GLASS:
+    value: 0
+  LIME_STAINED_GLASS_PANE:
+    value: 0
+  LIME_TERRACOTTA:
+    value: 0
+  LIME_WOOL:
+    value: 0
+  LINGERING_POTION:
+    value: 0
+  LODESTONE:
+    value: 0
+  LOOM:
+    value: 0
+  MACE:
+    value: 0
+  MAGENTA_BANNER:
+    value: 0
+  MAGENTA_BED:
+    value: 0
+  MAGENTA_BUNDLE:
+    value: 0
+  MAGENTA_CANDLE:
+    value: 0
+  MAGENTA_CARPET:
+    value: 0
+  MAGENTA_CONCRETE:
+    value: 0
+  MAGENTA_CONCRETE_POWDER:
+    value: 0
+  MAGENTA_DYE:
+    value: 0
+  MAGENTA_GLAZED_TERRACOTTA:
+    value: 0
+  MAGENTA_HARNESS:
+    value: 0
+  MAGENTA_SHULKER_BOX:
+    value: 0
+  MAGENTA_STAINED_GLASS:
+    value: 0
+  MAGENTA_STAINED_GLASS_PANE:
+    value: 0
+  MAGENTA_TERRACOTTA:
+    value: 0
+  MAGENTA_WOOL:
+    value: 0
+  MAGMA_BLOCK:
+    value: 0
+  MAGMA_CREAM:
+    value: 0
+  MANGROVE_BOAT:
+    value: 0
+  MANGROVE_BUTTON:
+    value: 0
+  MANGROVE_CHEST_BOAT:
+    value: 0
+  MANGROVE_DOOR:
+    value: 0
+  MANGROVE_FENCE:
+    value: 0
+  MANGROVE_FENCE_GATE:
+    value: 0
+  MANGROVE_HANGING_SIGN:
+    value: 0
+  MANGROVE_LEAVES:
+    value: 0
+  MANGROVE_LOG:
+    value: 0
+  MANGROVE_PLANKS:
+    value: 0
+  MANGROVE_PRESSURE_PLATE:
+    value: 0
+  MANGROVE_PROPAGULE:
+    value: 0
+  MANGROVE_ROOTS:
+    value: 0
+  MANGROVE_SIGN:
+    value: 0
+  MANGROVE_SLAB:
+    value: 0
+  MANGROVE_STAIRS:
+    value: 0
+  MANGROVE_TRAPDOOR:
+    value: 0
+  MANGROVE_WOOD:
+    value: 0
+  MAP:
+    value: 0
+  MEDIUM_AMETHYST_BUD:
+    value: 0
+  MELON:
+    value: 0
+  MELON_SEEDS:
+    value: 0
+  MELON_SLICE:
+    value: 0
+  MILK_BUCKET:
+    value: 0
+  MINECART:
+    value: 0
+  MINER_POTTERY_SHERD:
+    value: 0
+  MOJANG_BANNER_PATTERN:
+    value: 0
+  MOSS_BLOCK:
+    value: 0
+  MOSS_CARPET:
+    value: 0
+  MOSSY_COBBLESTONE:
+    value: 0
+  MOSSY_COBBLESTONE_SLAB:
+    value: 0
+  MOSSY_COBBLESTONE_STAIRS:
+    value: 0
+  MOSSY_COBBLESTONE_WALL:
+    value: 0
+  MOSSY_STONE_BRICK_SLAB:
+    value: 0
+  MOSSY_STONE_BRICK_STAIRS:
+    value: 0
+  MOSSY_STONE_BRICK_WALL:
+    value: 0
+  MOSSY_STONE_BRICKS:
+    value: 0
+  MOURNER_POTTERY_SHERD:
+    value: 0
+  MUD:
+    value: 0
+  MUD_BRICK_SLAB:
+    value: 0
+  MUD_BRICK_STAIRS:
+    value: 0
+  MUD_BRICK_WALL:
+    value: 0
+  MUD_BRICKS:
+    value: 0
+  MUDDY_MANGROVE_ROOTS:
+    value: 0
+  MUSHROOM_STEM:
+    value: 0
+  MUSHROOM_STEW:
+    value: 0
+  MUSIC_DISC_11:
+    value: 0
+  MUSIC_DISC_13:
+    value: 0
+  MUSIC_DISC_5:
+    value: 0
+  MUSIC_DISC_BLOCKS:
+    value: 0
+  MUSIC_DISC_CAT:
+    value: 0
+  MUSIC_DISC_CHIRP:
+    value: 0
+  MUSIC_DISC_CREATOR:
+    value: 0
+  MUSIC_DISC_CREATOR_MUSIC_BOX:
+    value: 0
+  MUSIC_DISC_FAR:
+    value: 0
+  MUSIC_DISC_LAVA_CHICKEN:
+    value: 0
+  MUSIC_DISC_MALL:
+    value: 0
+  MUSIC_DISC_MELLOHI:
+    value: 0
+  MUSIC_DISC_OTHERSIDE:
+    value: 0
+  MUSIC_DISC_PIGSTEP:
+    value: 0
+  MUSIC_DISC_PRECIPICE:
+    value: 0
+  MUSIC_DISC_RELIC:
+    value: 0
+  MUSIC_DISC_STAL:
+    value: 0
+  MUSIC_DISC_STRAD:
+    value: 0
+  MUSIC_DISC_TEARS:
+    value: 0
+  MUSIC_DISC_WAIT:
+    value: 0
+  MUSIC_DISC_WARD:
+    value: 0
+  MUTTON:
+    value: 0
+  MYCELIUM:
+    value: 0
+  NAME_TAG:
+    value: 0
+  NAUTILUS_SHELL:
+    value: 0
+  NETHER_BRICK:
+    value: 0
+  NETHER_BRICK_FENCE:
+    value: 0
+  NETHER_BRICK_SLAB:
+    value: 0
+  NETHER_BRICK_STAIRS:
+    value: 0
+  NETHER_BRICK_WALL:
+    value: 0
+  NETHER_BRICKS:
+    value: 0
+  NETHER_GOLD_ORE:
+    value: 0
+  NETHER_QUARTZ_ORE:
+    value: 0
+  NETHER_SPROUTS:
+    value: 0
+  NETHER_STAR:
+    value: 0
+  NETHER_WART:
+    value: 0
+  NETHER_WART_BLOCK:
+    value: 0
+  NETHERITE_AXE:
+    value: 0
+  NETHERITE_BLOCK:
+    value: 0
+  NETHERITE_BOOTS:
+    value: 0
+  NETHERITE_CHESTPLATE:
+    value: 0
+  NETHERITE_HELMET:
+    value: 0
+  NETHERITE_HOE:
+    value: 0
+  NETHERITE_INGOT:
+    value: 0
+  NETHERITE_LEGGINGS:
+    value: 0
+  NETHERITE_PICKAXE:
+    value: 0
+  NETHERITE_SCRAP:
+    value: 0
+  NETHERITE_SHOVEL:
+    value: 0
+  NETHERITE_SWORD:
+    value: 0
+  NETHERITE_UPGRADE_SMITHING_TEMPLATE:
+    value: 0
+  NETHERRACK:
+    value: 0
+  NOTE_BLOCK:
+    value: 0
+  OAK_BOAT:
+    value: 0
+  OAK_BUTTON:
+    value: 0
+  OAK_CHEST_BOAT:
+    value: 0
+  OAK_DOOR:
+    value: 0
+  OAK_FENCE:
+    value: 0
+  OAK_FENCE_GATE:
+    value: 0
+  OAK_HANGING_SIGN:
+    value: 0
+  OAK_LEAVES:
+    value: 0
+  OAK_LOG:
+    value: 0
+  OAK_PLANKS:
+    value: 0
+  OAK_PRESSURE_PLATE:
+    value: 0
+  OAK_SAPLING:
+    value: 0
+  OAK_SIGN:
+    value: 0
+  OAK_SLAB:
+    value: 0
+  OAK_STAIRS:
+    value: 0
+  OAK_TRAPDOOR:
+    value: 0
+  OAK_WOOD:
+    value: 0
+  OBSERVER:
+    value: 0
+  OBSIDIAN:
+    value: 0
+  OCHRE_FROGLIGHT:
+    value: 0
+  OMINOUS_BOTTLE:
+    value: 0
+  OMINOUS_TRIAL_KEY:
+    value: 0
+  OPEN_EYEBLOSSOM:
+    value: 0
+  ORANGE_BANNER:
+    value: 0
+  ORANGE_BED:
+    value: 0
+  ORANGE_BUNDLE:
+    value: 0
+  ORANGE_CANDLE:
+    value: 0
+  ORANGE_CARPET:
+    value: 0
+  ORANGE_CONCRETE:
+    value: 0
+  ORANGE_CONCRETE_POWDER:
+    value: 0
+  ORANGE_DYE:
+    value: 0
+  ORANGE_GLAZED_TERRACOTTA:
+    value: 0
+  ORANGE_HARNESS:
+    value: 0
+  ORANGE_SHULKER_BOX:
+    value: 0
+  ORANGE_STAINED_GLASS:
+    value: 0
+  ORANGE_STAINED_GLASS_PANE:
+    value: 0
+  ORANGE_TERRACOTTA:
+    value: 0
+  ORANGE_TULIP:
+    value: 0
+  ORANGE_WOOL:
+    value: 0
+  OXEYE_DAISY:
+    value: 0
+  OXIDIZED_CHISELED_COPPER:
+    value: 0
+  OXIDIZED_COPPER:
+    value: 0
+  OXIDIZED_COPPER_BULB:
+    value: 0
+  OXIDIZED_COPPER_DOOR:
+    value: 0
+  OXIDIZED_COPPER_GRATE:
+    value: 0
+  OXIDIZED_COPPER_TRAPDOOR:
+    value: 0
+  OXIDIZED_CUT_COPPER:
+    value: 0
+  OXIDIZED_CUT_COPPER_SLAB:
+    value: 0
+  OXIDIZED_CUT_COPPER_STAIRS:
+    value: 0
+  PACKED_ICE:
+    value: 0
+  PACKED_MUD:
+    value: 0
+  PAINTING:
+    value: 0
+  PALE_HANGING_MOSS:
+    value: 0
+  PALE_MOSS_BLOCK:
+    value: 0
+  PALE_MOSS_CARPET:
+    value: 0
+  PALE_OAK_BOAT:
+    value: 0
+  PALE_OAK_BUTTON:
+    value: 0
+  PALE_OAK_CHEST_BOAT:
+    value: 0
+  PALE_OAK_DOOR:
+    value: 0
+  PALE_OAK_FENCE:
+    value: 0
+  PALE_OAK_FENCE_GATE:
+    value: 0
+  PALE_OAK_HANGING_SIGN:
+    value: 0
+  PALE_OAK_LEAVES:
+    value: 0
+  PALE_OAK_LOG:
+    value: 0
+  PALE_OAK_PLANKS:
+    value: 0
+  PALE_OAK_PRESSURE_PLATE:
+    value: 0
+  PALE_OAK_SAPLING:
+    value: 0
+  PALE_OAK_SIGN:
+    value: 0
+  PALE_OAK_SLAB:
+    value: 0
+  PALE_OAK_STAIRS:
+    value: 0
+  PALE_OAK_TRAPDOOR:
+    value: 0
+  PALE_OAK_WOOD:
+    value: 0
+  PAPER:
+    value: 0
+  PEARLESCENT_FROGLIGHT:
+    value: 0
+  PEONY:
+    value: 0
+  PETRIFIED_OAK_SLAB:
+    value: 0
+  PHANTOM_MEMBRANE:
+    value: 0
+  PIGLIN_BANNER_PATTERN:
+    value: 0
+  PIGLIN_HEAD:
+    value: 0
+  PINK_BANNER:
+    value: 0
+  PINK_BED:
+    value: 0
+  PINK_BUNDLE:
+    value: 0
+  PINK_CANDLE:
+    value: 0
+  PINK_CARPET:
+    value: 0
+  PINK_CONCRETE:
+    value: 0
+  PINK_CONCRETE_POWDER:
+    value: 0
+  PINK_DYE:
+    value: 0
+  PINK_GLAZED_TERRACOTTA:
+    value: 0
+  PINK_HARNESS:
+    value: 0
+  PINK_PETALS:
+    value: 0
+  PINK_SHULKER_BOX:
+    value: 0
+  PINK_STAINED_GLASS:
+    value: 0
+  PINK_STAINED_GLASS_PANE:
+    value: 0
+  PINK_TERRACOTTA:
+    value: 0
+  PINK_TULIP:
+    value: 0
+  PINK_WOOL:
+    value: 0
+  PISTON:
+    value: 0
+  PITCHER_PLANT:
+    value: 0
+  PITCHER_POD:
+    value: 0
+  PLAYER_HEAD:
+    value: 0
+  PLENTY_POTTERY_SHERD:
+    value: 0
+  PODZOL:
+    value: 0
+  POINTED_DRIPSTONE:
+    value: 0
+  POISONOUS_POTATO:
+    value: 0
+  POLISHED_ANDESITE:
+    value: 0
+  POLISHED_ANDESITE_SLAB:
+    value: 0
+  POLISHED_ANDESITE_STAIRS:
+    value: 0
+  POLISHED_BASALT:
+    value: 0
+  POLISHED_BLACKSTONE:
+    value: 0
+  POLISHED_BLACKSTONE_BRICK_SLAB:
+    value: 0
+  POLISHED_BLACKSTONE_BRICK_STAIRS:
+    value: 0
+  POLISHED_BLACKSTONE_BRICK_WALL:
+    value: 0
+  POLISHED_BLACKSTONE_BRICKS:
+    value: 0
+  POLISHED_BLACKSTONE_BUTTON:
+    value: 0
+  POLISHED_BLACKSTONE_PRESSURE_PLATE:
+    value: 0
+  POLISHED_BLACKSTONE_SLAB:
+    value: 0
+  POLISHED_BLACKSTONE_STAIRS:
+    value: 0
+  POLISHED_BLACKSTONE_WALL:
+    value: 0
+  POLISHED_DEEPSLATE:
+    value: 0
+  POLISHED_DEEPSLATE_SLAB:
+    value: 0
+  POLISHED_DEEPSLATE_STAIRS:
+    value: 0
+  POLISHED_DEEPSLATE_WALL:
+    value: 0
+  POLISHED_DIORITE:
+    value: 0
+  POLISHED_DIORITE_SLAB:
+    value: 0
+  POLISHED_DIORITE_STAIRS:
+    value: 0
+  POLISHED_GRANITE:
+    value: 0
+  POLISHED_GRANITE_SLAB:
+    value: 0
+  POLISHED_GRANITE_STAIRS:
+    value: 0
+  POLISHED_TUFF:
+    value: 0
+  POLISHED_TUFF_SLAB:
+    value: 0
+  POLISHED_TUFF_STAIRS:
+    value: 0
+  POLISHED_TUFF_WALL:
+    value: 0
+  POPPED_CHORUS_FRUIT:
+    value: 0
+  POPPY:
+    value: 0
+  PORKCHOP:
+    value: 0
+  POTATO:
+    value: 0
+  POTION:
+    value: 0
+  POWDER_SNOW_BUCKET:
+    value: 0
+  POWERED_RAIL:
+    value: 0
+  PRISMARINE:
+    value: 0
+  PRISMARINE_BRICK_SLAB:
+    value: 0
+  PRISMARINE_BRICK_STAIRS:
+    value: 0
+  PRISMARINE_BRICKS:
+    value: 0
+  PRISMARINE_CRYSTALS:
+    value: 0
+  PRISMARINE_SHARD:
+    value: 0
+  PRISMARINE_SLAB:
+    value: 0
+  PRISMARINE_STAIRS:
+    value: 0
+  PRISMARINE_WALL:
+    value: 0
+  PRIZE_POTTERY_SHERD:
+    value: 0
+  PUFFERFISH:
+    value: 0
+  PUFFERFISH_BUCKET:
+    value: 0
+  PUMPKIN:
+    value: 0
+  PUMPKIN_PIE:
+    value: 0
+  PUMPKIN_SEEDS:
+    value: 0
+  PURPLE_BANNER:
+    value: 0
+  PURPLE_BED:
+    value: 0
+  PURPLE_BUNDLE:
+    value: 0
+  PURPLE_CANDLE:
+    value: 0
+  PURPLE_CARPET:
+    value: 0
+  PURPLE_CONCRETE:
+    value: 0
+  PURPLE_CONCRETE_POWDER:
+    value: 0
+  PURPLE_DYE:
+    value: 0
+  PURPLE_GLAZED_TERRACOTTA:
+    value: 0
+  PURPLE_HARNESS:
+    value: 0
+  PURPLE_SHULKER_BOX:
+    value: 0
+  PURPLE_STAINED_GLASS:
+    value: 0
+  PURPLE_STAINED_GLASS_PANE:
+    value: 0
+  PURPLE_TERRACOTTA:
+    value: 0
+  PURPLE_WOOL:
+    value: 0
+  PURPUR_BLOCK:
+    value: 0
+  PURPUR_PILLAR:
+    value: 0
+  PURPUR_SLAB:
+    value: 0
+  PURPUR_STAIRS:
+    value: 0
+  QUARTZ:
+    value: 0
+  QUARTZ_BLOCK:
+    value: 0
+  QUARTZ_BRICKS:
+    value: 0
+  QUARTZ_PILLAR:
+    value: 0
+  QUARTZ_SLAB:
+    value: 0
+  QUARTZ_STAIRS:
+    value: 0
+  RABBIT:
+    value: 0
+  RABBIT_FOOT:
+    value: 0
+  RABBIT_HIDE:
+    value: 0
+  RABBIT_STEW:
+    value: 0
+  RAIL:
+    value: 0
+  RAISER_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  RAW_COPPER:
+    value: 0
+  RAW_COPPER_BLOCK:
+    value: 0
+  RAW_GOLD:
+    value: 0
+  RAW_GOLD_BLOCK:
+    value: 0
+  RAW_IRON:
+    value: 0
+  RAW_IRON_BLOCK:
+    value: 0
+  RECOVERY_COMPASS:
+    value: 0
+  RED_BANNER:
+    value: 0
+  RED_BED:
+    value: 0
+  RED_BUNDLE:
+    value: 0
+  RED_CANDLE:
+    value: 0
+  RED_CARPET:
+    value: 0
+  RED_CONCRETE:
+    value: 0
+  RED_CONCRETE_POWDER:
+    value: 0
+  RED_DYE:
+    value: 0
+  RED_GLAZED_TERRACOTTA:
+    value: 0
+  RED_HARNESS:
+    value: 0
+  RED_MUSHROOM:
+    value: 0
+  RED_MUSHROOM_BLOCK:
+    value: 0
+  RED_NETHER_BRICK_SLAB:
+    value: 0
+  RED_NETHER_BRICK_STAIRS:
+    value: 0
+  RED_NETHER_BRICK_WALL:
+    value: 0
+  RED_NETHER_BRICKS:
+    value: 0
+  RED_SAND:
+    value: 0
+  RED_SANDSTONE:
+    value: 0
+  RED_SANDSTONE_SLAB:
+    value: 0
+  RED_SANDSTONE_STAIRS:
+    value: 0
+  RED_SANDSTONE_WALL:
+    value: 0
+  RED_SHULKER_BOX:
+    value: 0
+  RED_STAINED_GLASS:
+    value: 0
+  RED_STAINED_GLASS_PANE:
+    value: 0
+  RED_TERRACOTTA:
+    value: 0
+  RED_TULIP:
+    value: 0
+  RED_WOOL:
+    value: 0
+  REDSTONE:
+    value: 0
+  REDSTONE_BLOCK:
+    value: 0
+  REDSTONE_LAMP:
+    value: 0
+  REDSTONE_ORE:
+    value: 0
+  REDSTONE_TORCH:
+    value: 0
+  REINFORCED_DEEPSLATE:
+    value: 0
+  REPEATER:
+    value: 0
+  REPEATING_COMMAND_BLOCK:
+    value: 0
+  RESIN_BLOCK:
+    value: 0
+  RESIN_BRICK:
+    value: 0
+  RESIN_BRICK_SLAB:
+    value: 0
+  RESIN_BRICK_STAIRS:
+    value: 0
+  RESIN_BRICK_WALL:
+    value: 0
+  RESIN_BRICKS:
+    value: 0
+  RESIN_CLUMP:
+    value: 0
+  RESPAWN_ANCHOR:
+    value: 0
+  RIB_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  ROOTED_DIRT:
+    value: 0
+  ROSE_BUSH:
+    value: 0
+  ROTTEN_FLESH:
+    value: 0
+  SADDLE:
+    value: 0
+  SALMON:
+    value: 0
+  SALMON_BUCKET:
+    value: 0
+  SAND:
+    value: 0
+  SANDSTONE:
+    value: 0
+  SANDSTONE_SLAB:
+    value: 0
+  SANDSTONE_STAIRS:
+    value: 0
+  SANDSTONE_WALL:
+    value: 0
+  SCAFFOLDING:
+    value: 0
+  SCRAPE_POTTERY_SHERD:
+    value: 0
+  SCULK:
+    value: 0
+  SCULK_CATALYST:
+    value: 0
+  SCULK_SENSOR:
+    value: 0
+  SCULK_SHRIEKER:
+    value: 0
+  SCULK_VEIN:
+    value: 0
+  SEA_LANTERN:
+    value: 0
+  SEA_PICKLE:
+    value: 0
+  SEAGRASS:
+    value: 0
+  SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  SHEAF_POTTERY_SHERD:
+    value: 0
+  SHEARS:
+    value: 0
+  SHELTER_POTTERY_SHERD:
+    value: 0
+  SHIELD:
+    value: 0
+  SHORT_DRY_GRASS:
+    value: 0.01
+  SHORT_GRASS:
+    value: 0
+  SHROOMLIGHT:
+    value: 0
+  SHULKER_BOX:
+    value: 0
+  SHULKER_SHELL:
+    value: 0
+  SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  SKELETON_SKULL:
+    value: 0
+  SKULL_BANNER_PATTERN:
+    value: 0
+  SKULL_POTTERY_SHERD:
+    value: 0
+  SLIME_BALL:
+    value: 0
+  SLIME_BLOCK:
+    value: 0
+  SMALL_AMETHYST_BUD:
+    value: 0
+  SMALL_DRIPLEAF:
+    value: 0
+  SMITHING_TABLE:
+    value: 0
+  SMOKER:
+    value: 0
+  SMOOTH_BASALT:
+    value: 0
+  SMOOTH_QUARTZ:
+    value: 0
+  SMOOTH_QUARTZ_SLAB:
+    value: 0
+  SMOOTH_QUARTZ_STAIRS:
+    value: 0
+  SMOOTH_RED_SANDSTONE:
+    value: 0
+  SMOOTH_RED_SANDSTONE_SLAB:
+    value: 0
+  SMOOTH_RED_SANDSTONE_STAIRS:
+    value: 0
+  SMOOTH_SANDSTONE:
+    value: 0
+  SMOOTH_SANDSTONE_SLAB:
+    value: 0
+  SMOOTH_SANDSTONE_STAIRS:
+    value: 0
+  SMOOTH_STONE:
+    value: 0
+  SMOOTH_STONE_SLAB:
+    value: 0
+  SNIFFER_EGG:
+    value: 0
+  SNORT_POTTERY_SHERD:
+    value: 0
+  SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  SNOW:
+    value: 0
+  SNOW_BLOCK:
+    value: 0
+  SNOWBALL:
+    value: 0
+  SOUL_CAMPFIRE:
+    value: 0
+  SOUL_LANTERN:
+    value: 0
+  SOUL_SAND:
+    value: 0
+  SOUL_SOIL:
+    value: 0
+  SOUL_TORCH:
+    value: 0
+  SPAWNER:
+    value: 0
+  SPECTRAL_ARROW:
+    value: 0
+  SPIDER_EYE:
+    value: 0
+  SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  SPLASH_POTION:
+    value: 0
+  SPONGE:
+    value: 0
+  SPORE_BLOSSOM:
+    value: 0
+  SPRUCE_BOAT:
+    value: 0
+  SPRUCE_BUTTON:
+    value: 0
+  SPRUCE_CHEST_BOAT:
+    value: 0
+  SPRUCE_DOOR:
+    value: 0
+  SPRUCE_FENCE:
+    value: 0
+  SPRUCE_FENCE_GATE:
+    value: 0
+  SPRUCE_HANGING_SIGN:
+    value: 0
+  SPRUCE_LEAVES:
+    value: 0
+  SPRUCE_LOG:
+    value: 0
+  SPRUCE_PLANKS:
+    value: 0
+  SPRUCE_PRESSURE_PLATE:
+    value: 0
+  SPRUCE_SAPLING:
+    value: 0
+  SPRUCE_SIGN:
+    value: 0
+  SPRUCE_SLAB:
+    value: 0
+  SPRUCE_STAIRS:
+    value: 0
+  SPRUCE_TRAPDOOR:
+    value: 0
+  SPRUCE_WOOD:
+    value: 0
+  SPYGLASS:
+    value: 0
+  STICK:
+    value: 0
+  STICKY_PISTON:
+    value: 0
+  STONE:
+    value: 0
+  STONE_AXE:
+    value: 0
+  STONE_BRICK_SLAB:
+    value: 0
+  STONE_BRICK_STAIRS:
+    value: 0
+  STONE_BRICK_WALL:
+    value: 0
+  STONE_BRICKS:
+    value: 0
+  STONE_BUTTON:
+    value: 0
+  STONE_HOE:
+    value: 0
+  STONE_PICKAXE:
+    value: 0
+  STONE_PRESSURE_PLATE:
+    value: 0
+  STONE_SHOVEL:
+    value: 0
+  STONE_SLAB:
+    value: 0
+  STONE_STAIRS:
+    value: 0
+  STONE_SWORD:
+    value: 0
+  STONECUTTER:
+    value: 0
+  STRING:
+    value: 0
+  STRIPPED_ACACIA_LOG:
+    value: 0
+  STRIPPED_ACACIA_WOOD:
+    value: 0
+  STRIPPED_BAMBOO_BLOCK:
+    value: 0
+  STRIPPED_BIRCH_LOG:
+    value: 0
+  STRIPPED_BIRCH_WOOD:
+    value: 0
+  STRIPPED_CHERRY_LOG:
+    value: 0
+  STRIPPED_CHERRY_WOOD:
+    value: 0
+  STRIPPED_CRIMSON_HYPHAE:
+    value: 0
+  STRIPPED_CRIMSON_STEM:
+    value: 0
+  STRIPPED_DARK_OAK_LOG:
+    value: 0
+  STRIPPED_DARK_OAK_WOOD:
+    value: 0
+  STRIPPED_JUNGLE_LOG:
+    value: 0
+  STRIPPED_JUNGLE_WOOD:
+    value: 0
+  STRIPPED_MANGROVE_LOG:
+    value: 0
+  STRIPPED_MANGROVE_WOOD:
+    value: 0
+  STRIPPED_OAK_LOG:
+    value: 0
+  STRIPPED_OAK_WOOD:
+    value: 0
+  STRIPPED_PALE_OAK_LOG:
+    value: 0
+  STRIPPED_PALE_OAK_WOOD:
+    value: 0
+  STRIPPED_SPRUCE_LOG:
+    value: 0
+  STRIPPED_SPRUCE_WOOD:
+    value: 0
+  STRIPPED_WARPED_HYPHAE:
+    value: 0
+  STRIPPED_WARPED_STEM:
+    value: 0
+  STRUCTURE_BLOCK:
+    value: 0
+  STRUCTURE_VOID:
+    value: 0
+  SUGAR:
+    value: 0
+  SUGAR_CANE:
+    value: 0
+  SUNFLOWER:
+    value: 0
+  SUSPICIOUS_GRAVEL:
+    value: 0
+  SUSPICIOUS_SAND:
+    value: 0
+  SUSPICIOUS_STEW:
+    value: 0
+  SWEET_BERRIES:
+    value: 0
+  TADPOLE_BUCKET:
+    value: 0
+  TALL_DRY_GRASS:
+    value: 0.01
+  TALL_GRASS:
+    value: 0
+  TARGET:
+    value: 0
+  TERRACOTTA:
+    value: 0
+  TEST_BLOCK:
+    value: 0
+  TEST_INSTANCE_BLOCK:
+    value: 0
+  TIDE_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  TINTED_GLASS:
+    value: 0
+  TIPPED_ARROW:
+    value: 0
+  TNT:
+    value: 0
+  TNT_MINECART:
+    value: 0
+  TORCH:
+    value: 0
+  TORCHFLOWER:
+    value: 0
+  TORCHFLOWER_SEEDS:
+    value: 0
+  TOTEM_OF_UNDYING:
+    value: 0
+  TRAPPED_CHEST:
+    value: 0
+  TRIAL_KEY:
+    value: 0
+  TRIAL_SPAWNER:
+    value: 0
+  TRIDENT:
+    value: 0
+  TRIPWIRE_HOOK:
+    value: 0
+  TROPICAL_FISH:
+    value: 0
+  TROPICAL_FISH_BUCKET:
+    value: 0
+  TUBE_CORAL:
+    value: 0
+  TUBE_CORAL_BLOCK:
+    value: 0
+  TUBE_CORAL_FAN:
+    value: 0
+  TUFF:
+    value: 0
+  TUFF_BRICK_SLAB:
+    value: 0
+  TUFF_BRICK_STAIRS:
+    value: 0
+  TUFF_BRICK_WALL:
+    value: 0
+  TUFF_BRICKS:
+    value: 0
+  TUFF_SLAB:
+    value: 0
+  TUFF_STAIRS:
+    value: 0
+  TUFF_WALL:
+    value: 0
+  TURTLE_EGG:
+    value: 0
+  TURTLE_HELMET:
+    value: 0
+  TURTLE_SCUTE:
+    value: 0
+  TWISTING_VINES:
+    value: 0
+  VAULT:
+    value: 0
+  VERDANT_FROGLIGHT:
+    value: 0
+  VEX_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  VINE:
+    value: 0
+  WARD_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  WARPED_BUTTON:
+    value: 0
+  WARPED_DOOR:
+    value: 0
+  WARPED_FENCE:
+    value: 0
+  WARPED_FENCE_GATE:
+    value: 0
+  WARPED_FUNGUS:
+    value: 0
+  WARPED_FUNGUS_ON_A_STICK:
+    value: 0
+  WARPED_HANGING_SIGN:
+    value: 0
+  WARPED_HYPHAE:
+    value: 0
+  WARPED_NYLIUM:
+    value: 0
+  WARPED_PLANKS:
+    value: 0
+  WARPED_PRESSURE_PLATE:
+    value: 0
+  WARPED_ROOTS:
+    value: 0
+  WARPED_SIGN:
+    value: 0
+  WARPED_SLAB:
+    value: 0
+  WARPED_STAIRS:
+    value: 0
+  WARPED_STEM:
+    value: 0
+  WARPED_TRAPDOOR:
+    value: 0
+  WARPED_WART_BLOCK:
+    value: 0
+  WATER_BUCKET:
+    value: 0
+  WAXED_CHISELED_COPPER:
+    value: 0
+  WAXED_COPPER_BLOCK:
+    value: 0
+  WAXED_COPPER_BULB:
+    value: 0
+  WAXED_COPPER_DOOR:
+    value: 0
+  WAXED_COPPER_GRATE:
+    value: 0
+  WAXED_COPPER_TRAPDOOR:
+    value: 0
+  WAXED_CUT_COPPER:
+    value: 0
+  WAXED_CUT_COPPER_SLAB:
+    value: 0
+  WAXED_CUT_COPPER_STAIRS:
+    value: 0
+  WAXED_EXPOSED_CHISELED_COPPER:
+    value: 0
+  WAXED_EXPOSED_COPPER:
+    value: 0
+  WAXED_EXPOSED_COPPER_BULB:
+    value: 0
+  WAXED_EXPOSED_COPPER_DOOR:
+    value: 0
+  WAXED_EXPOSED_COPPER_GRATE:
+    value: 0
+  WAXED_EXPOSED_COPPER_TRAPDOOR:
+    value: 0
+  WAXED_EXPOSED_CUT_COPPER:
+    value: 0
+  WAXED_EXPOSED_CUT_COPPER_SLAB:
+    value: 0
+  WAXED_EXPOSED_CUT_COPPER_STAIRS:
+    value: 0
+  WAXED_OXIDIZED_CHISELED_COPPER:
+    value: 0
+  WAXED_OXIDIZED_COPPER:
+    value: 0
+  WAXED_OXIDIZED_COPPER_BULB:
+    value: 0
+  WAXED_OXIDIZED_COPPER_DOOR:
+    value: 0
+  WAXED_OXIDIZED_COPPER_GRATE:
+    value: 0
+  WAXED_OXIDIZED_COPPER_TRAPDOOR:
+    value: 0
+  WAXED_OXIDIZED_CUT_COPPER:
+    value: 0
+  WAXED_OXIDIZED_CUT_COPPER_SLAB:
+    value: 0
+  WAXED_OXIDIZED_CUT_COPPER_STAIRS:
+    value: 0
+  WAXED_WEATHERED_CHISELED_COPPER:
+    value: 0
+  WAXED_WEATHERED_COPPER:
+    value: 0
+  WAXED_WEATHERED_COPPER_BULB:
+    value: 0
+  WAXED_WEATHERED_COPPER_DOOR:
+    value: 0
+  WAXED_WEATHERED_COPPER_GRATE:
+    value: 0
+  WAXED_WEATHERED_COPPER_TRAPDOOR:
+    value: 0
+  WAXED_WEATHERED_CUT_COPPER:
+    value: 0
+  WAXED_WEATHERED_CUT_COPPER_SLAB:
+    value: 0
+  WAXED_WEATHERED_CUT_COPPER_STAIRS:
+    value: 0
+  WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  WEATHERED_CHISELED_COPPER:
+    value: 0
+  WEATHERED_COPPER:
+    value: 0
+  WEATHERED_COPPER_BULB:
+    value: 0
+  WEATHERED_COPPER_DOOR:
+    value: 0
+  WEATHERED_COPPER_GRATE:
+    value: 0
+  WEATHERED_COPPER_TRAPDOOR:
+    value: 0
+  WEATHERED_CUT_COPPER:
+    value: 0
+  WEATHERED_CUT_COPPER_SLAB:
+    value: 0
+  WEATHERED_CUT_COPPER_STAIRS:
+    value: 0
+  WEEPING_VINES:
+    value: 0
+  WET_SPONGE:
+    value: 0
+  WHEAT:
+    value: 0
+  WHEAT_SEEDS:
+    value: 0
+  WHITE_BANNER:
+    value: 0
+  WHITE_BED:
+    value: 0
+  WHITE_BUNDLE:
+    value: 0
+  WHITE_CANDLE:
+    value: 0
+  WHITE_CARPET:
+    value: 0
+  WHITE_CONCRETE:
+    value: 0
+  WHITE_CONCRETE_POWDER:
+    value: 0
+  WHITE_DYE:
+    value: 0
+  WHITE_GLAZED_TERRACOTTA:
+    value: 0
+  WHITE_HARNESS:
+    value: 0
+  WHITE_SHULKER_BOX:
+    value: 0
+  WHITE_STAINED_GLASS:
+    value: 0
+  WHITE_STAINED_GLASS_PANE:
+    value: 0
+  WHITE_TERRACOTTA:
+    value: 0
+  WHITE_TULIP:
+    value: 0
+  WHITE_WOOL:
+    value: 0
+  WILD_ARMOR_TRIM_SMITHING_TEMPLATE:
+    value: 0
+  WILDFLOWERS:
+    value: 0
+  WIND_CHARGE:
+    value: 0
+  WITHER_ROSE:
+    value: 0
+  WITHER_SKELETON_SKULL:
+    value: 0
+  WOLF_ARMOR:
+    value: 0
+  WOODEN_AXE:
+    value: 0
+  WOODEN_HOE:
+    value: 0
+  WOODEN_PICKAXE:
+    value: 0
+  WOODEN_SHOVEL:
+    value: 0
+  WOODEN_SWORD:
+    value: 0
+  WRITABLE_BOOK:
+    value: 0
+  WRITTEN_BOOK:
+    value: 0
+  YELLOW_BANNER:
+    value: 0
+  YELLOW_BED:
+    value: 0
+  YELLOW_BUNDLE:
+    value: 0
+  YELLOW_CANDLE:
+    value: 0
+  YELLOW_CARPET:
+    value: 0
+  YELLOW_CONCRETE:
+    value: 0
+  YELLOW_CONCRETE_POWDER:
+    value: 0
+  YELLOW_DYE:
+    value: 0
+  YELLOW_GLAZED_TERRACOTTA:
+    value: 0
+  YELLOW_HARNESS:
+    value: 0
+  YELLOW_SHULKER_BOX:
+    value: 12
+  YELLOW_STAINED_GLASS:
+    value: 0
+  YELLOW_STAINED_GLASS_PANE:
+    value: 0
+  YELLOW_TERRACOTTA:
+    value: 0
+  YELLOW_WOOL:
+    value: 0
+  ZOMBIE_HEAD:
+    value: 0

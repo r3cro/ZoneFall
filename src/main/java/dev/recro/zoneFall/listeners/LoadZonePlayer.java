@@ -24,12 +24,6 @@ public class LoadZonePlayer implements Listener {
     }
 
     @EventHandler
-    public void onBlockBreak(BlockBreakEvent event) {
-        plugin.getPlayerDataManager().getPlayerData(event.getPlayer()).setBalance(69);
-        event.getPlayer().sendMessage("Balance: " + plugin.getPlayerDataManager().getPlayerData(event.getPlayer()).getBalance());
-    }
-
-    @EventHandler
     public void onQuit(PlayerQuitEvent event) {
         Player player = event.getPlayer();
         PlayerData data = plugin.getPlayerDataManager().getPlayerData(player);

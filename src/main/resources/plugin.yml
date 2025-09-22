@@ -6,3 +6,20 @@ commands:
   debug:
     description: help command
     usage: /<command>
+  worth:
+    description: worth command
+    usage: /<command>
+  sell:
+    description: sell command
+    usage: /<command>
+  stats:
+    description: stats command
+    usage: /<command>
+  balance:
+    description: balance command
+    usage: /<command>
+    aliases: [bal]
+  pay:
+    description: balance command
+    usage: /<command>
+    aliases: [bal]

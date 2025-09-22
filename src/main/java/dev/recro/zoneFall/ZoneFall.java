@@ -1,6 +1,10 @@
 package dev.recro.zoneFall;
 
-import dev.recro.zoneFall.commands.DebugCommand;
+import dev.recro.zoneFall.commands.*;
+import dev.recro.zoneFall.commands.economy.BalanceCommand;
+import dev.recro.zoneFall.commands.economy.PayCommand;
+import dev.recro.zoneFall.commands.economy.SellCommand;
+import dev.recro.zoneFall.commands.economy.WorthCommand;
 import dev.recro.zoneFall.data.DatabaseManager;
 import dev.recro.zoneFall.data.PlayerDataManager;
 import dev.recro.zoneFall.listeners.LoadZonePlayer;
@@ -17,11 +21,13 @@ public final class ZoneFall extends JavaPlugin {
     private DatabaseManager databaseManager;
 
     private DataFile configFile;
+    private DataFile itemWorthFile;
 
     @Override
     public void onEnable() {
         // Plugin startup logic
         this.configFile = new DataFile(this, "config");
+        this.itemWorthFile = new DataFile(this, "worth");
 
         String host = getConfigFile().getString("sql.host");
         int port = getConfigFile().getInt("sql.port");
@@ -50,6 +56,11 @@ public final class ZoneFall extends JavaPlugin {
 
     private void registerCommands() {
         getCommand("debug").setExecutor(new DebugCommand(this));
+        getCommand("worth").setExecutor(new WorthCommand(this));
+        getCommand("sell").setExecutor(new SellCommand(this));
+        getCommand("balance").setExecutor(new BalanceCommand(this));
+        getCommand("pay").setExecutor(new PayCommand(this));
+        getCommand("stats").setExecutor(new StatsCommand(this));
     }
 
 }
