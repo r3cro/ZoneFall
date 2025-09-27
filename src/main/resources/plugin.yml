@@ -22,4 +22,7 @@ commands:
   pay:
     description: balance command
     usage: /<command>
-    aliases: [bal]
+  economy:
+    description: balance command
+    usage: /<command>
+    aliases: [eco, e]

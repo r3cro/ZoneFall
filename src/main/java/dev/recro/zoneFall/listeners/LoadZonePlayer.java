@@ -20,6 +20,7 @@ public class LoadZonePlayer implements Listener {
     public void onJoin(PlayerJoinEvent event) {
         Player player = event.getPlayer();
         plugin.getPlayerDataManager().getPlayerData(player);
+        plugin.getPlayerDataManager().getPlayerData(player).setName(player.getName());
     }
 
     @EventHandler

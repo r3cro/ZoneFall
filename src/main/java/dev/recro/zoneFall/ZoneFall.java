@@ -58,6 +58,7 @@ public final class ZoneFall extends JavaPlugin {
         getCommand("balance").setExecutor(new BalanceCommand(this));
         getCommand("pay").setExecutor(new PayCommand(this));
         getCommand("stats").setExecutor(new StatsCommand(this));
+        getCommand("economy").setExecutor(new EconomyCommand(this));
     }
 
 }

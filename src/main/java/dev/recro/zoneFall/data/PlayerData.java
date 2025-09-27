@@ -3,6 +3,7 @@ package dev.recro.zoneFall.data;
 import dev.recro.zoneFall.ZoneFall;
 import lombok.Getter;
 import lombok.Setter;
+import org.bukkit.Bukkit;
 
 import java.util.UUID;
 
@@ -12,6 +13,7 @@ public class PlayerData {
     private ZoneFall plugin;
 
     private final UUID uuid;
+    private String name;
     private int kills;
     private int mobKills;
     private int deaths;
@@ -27,6 +29,7 @@ public class PlayerData {
         this.balance = 0.0;
         this.sellMultiplier = 1.0;
         this.lastJoin = System.currentTimeMillis();
+        this.name = Bukkit.getPlayer(uuid).getName();
     }
 
     public void addKill() { this.kills++; }

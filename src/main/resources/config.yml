@@ -4,3 +4,5 @@ sql:
   database: "zonefall"
   username: "root"
   password: "your_password"
+messages:
+  no_permission: "&cNo permission."

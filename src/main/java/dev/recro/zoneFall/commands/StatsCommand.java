@@ -46,7 +46,11 @@ public class StatsCommand implements CommandExecutor {
         } else
 
         if(args.length == 1) {
-            Player target = Bukkit.getPlayerExact(args[0]);
+            Player target = Bukkit.getPlayer(args[0]);
+            if (!target.isOnline()) {
+                player.sendMessage(ChatColor.RED + target.getName() + " is not online.");
+                return true;
+            }
             if (args[0].equalsIgnoreCase(target.getName())) {
                 int kills = plugin.getPlayerDataManager().getPlayerData(target).getKills();
                 int mobkills = plugin.getPlayerDataManager().getPlayerData(target).getKills();
